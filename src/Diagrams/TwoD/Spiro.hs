@@ -28,7 +28,6 @@ import Graphics.Spiro.Raw
 import Diagrams.Prelude
 import Diagrams.TwoD.Spiro.PathContext (PathContext,toDiagram,zeroPathContext)
 import qualified Diagrams.TwoD.Spiro.PathContext as P
-import Diagrams.Backend.Cairo.CmdLine
 
 import Data.Monoid
 import Data.NumInstances

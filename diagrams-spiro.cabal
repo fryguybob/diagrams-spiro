@@ -21,9 +21,9 @@ Library
                        transformers > 0.2 && < 0.3,
                        mtl > 2.0 && < 2.1,
                        newtype >= 0.2 && < 0.3,
-                       diagrams-core  >= 0.3 && < 0.4,
-                       diagrams-lib   >= 0.3 && < 0.4,
-                       diagrams-cairo >= 0.3 && < 0.4,
+                       diagrams-core  >= 0.3 && < 0.6,
+                       diagrams-lib   >= 0.3 && < 0.6,
                        spiro-raw >= 0.1 && < 0.2,
-                       vector-space >= 0.7 && < 0.8
+                       vector-space >= 0.7 && < 0.8,
+                       NumInstances >= 1.0 && < 1.1
   Other-modules:       Diagrams.TwoD.Spiro.PathContext
